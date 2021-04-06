@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning **Java and Spring Boot**
 
 - :mortar_board:  Bachelor of Science in **Bioinformatics** at Tongji University
-- :love_letter: Plan to study in US for a degree of Master of Computer Science
+
+- :love_letter: Plan to study in US to pursue a degree of Master of Computer Science
 
 - :stars: Projects:
     - [Pathogenesis of AMI Revealed by Integrative Global Transcriptomics and Proteomics Analysis](https://github.com/ZhiyuanMa2017/AMI_analysis) - Python, R, KEGG
