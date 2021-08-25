@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Zhiyuan Ma</h1>
 <h3 align="center">A rookie now learning Java and basic knowledge of CS</h3>
+<h3 align="center">https://zhiyuanma2017.github.io/</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=zhiyuanma2017&label=Profile%20views&color=0e75b6&style=flat" alt="zhiyuanma2017" /> </p>
                                  
 
-
-- 🌱 I’m currently learning **Java and Spring Boot**
+- :raising_hand: **Seeking 2022 summer intership**
+- 🌱 I’m currently learning Java and Spring Boot
 
 - :mortar_board:  Bachelor of Science in **Bioinformatics** at Tongji University
 
-- :love_letter: Plan to study in US to pursue a degree of Master of Computer Science
+- :love_letter: Master of Computer Science @North Carolina State Univeristy (2021 - 2023)
 
 - :stars: Projects:
     - [Pathogenesis of AMI Revealed by Integrative Global Transcriptomics and Proteomics Analysis](https://github.com/ZhiyuanMa2017/AMI_analysis) - Python, R, KEGG
