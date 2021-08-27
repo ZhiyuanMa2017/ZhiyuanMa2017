@@ -29,7 +29,7 @@
 <p align="middle">
 <a href="mailto:zma24@ncsu.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="zma24" height="30" width="40" /></a>
 <a href="https://twitter.com/sweeeeeeeeeeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sweeeeeeeeeeep" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/zhiyuanma2021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zhiyuan ma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zhiyuanma2021/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zhiyuan ma" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12843886" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12843886" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dbsquirrel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="dbsquirrel" height="30" width="40" /></a>
 </p>
