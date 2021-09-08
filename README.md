@@ -10,7 +10,7 @@
 
 - :mortar_board:  Bachelor of Science in **Bioinformatics** at Tongji University
 
-- :love_letter: Master of Computer Science @North Carolina State Univeristy (2021 - 2023)
+- :love_letter: Master of Computer Science at North Carolina State Univeristy (2021 - 2023)
 
 - :stars: Projects:
     - [Pathogenesis of AMI Revealed by Integrative Global Transcriptomics and Proteomics Analysis](https://github.com/ZhiyuanMa2017/AMI_analysis) - Python, R, KEGG
