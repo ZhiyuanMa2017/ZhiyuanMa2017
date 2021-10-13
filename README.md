@@ -6,7 +6,7 @@
                                  
 
 - :raising_hand: **Seeking 2022 summer intership**
-- 🌱 I’m currently learning Java and Spring Boot
+- 🌱 I’m currently learning <del>Java and Spring Boot</del> algorithms and data structures from [LeetCode](https://purr.notion.site/d14e33f7d8a04dfcbffe5ea30441a5ab?v=695c3715120d48cf9078ed0fdabe2bc4)
 
 - :mortar_board:  Bachelor of Science in **Bioinformatics** at Tongji University
 
@@ -19,19 +19,20 @@
     - [Course: Stanford CS231n: Convolutional Neural Networks for Visual Recognition (Self-study)](https://github.com/ZhiyuanMa2017/cs231n-Spring-2017) - Python, CNN
     - [Baidu Tieba Spider, Word Segmentation and Wordcloud (Esports Forum Statistics and Analysis)](https://github.com/ZhiyuanMa2017/tieba_spider) - Jieba, Wordcloud
     - [Chinese Herbal Medicine Data Website (Short Semester Course Design)](https://github.com/ZhiyuanMa2017/Chinese_Herbal_Medicine_Data_Website) - Python, Django, RDKit
-    - [My Leetcode Repo](https://github.com/ZhiyuanMa2017/leetcode)
-    - [Spring Boot Learning (still Rookie Level)](https://github.com/ZhiyuanMa2017/Spring-learning)
+    - [Spring Boot Learning (still Rookie Level)](https://github.com/ZhiyuanMa2017/Spring-learning)  
+    - [My Leetcode Repo](https://www.leetcode.com/hongsuzu)
+   
 
 
 
 
 <h3 align="middle">Connect with me:</h2>
 <p align="middle">
-<a href="mailto:zma24@ncsu.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="zma24" height="30" width="40" /></a>
-<a href="https://twitter.com/sweeeeeeeeeeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sweeeeeeeeeeep" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zhiyuanma2021/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zhiyuan ma" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12843886" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12843886" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hongsuzu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="hongsuzu" height="30" width="40" /></a>
+<a href="mailto:zma24@ncsu.edu" target="blank"> Gmail <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="zma24" height="30" width="40" /></a>
+<a href="https://twitter.com/sweeeeeeeeeeep" target="blank">Twitter<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sweeeeeeeeeeep" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zhiyuanma2021/" target="blank">LinkedIn<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zhiyuan ma" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12843886" target="blank">Stack Overflow<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12843886" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hongsuzu" target="blank">LeetCode<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="hongsuzu" height="30" width="40" /></a>
 </p>
 
 <h3 align="middle">Languages and Tools:</h3>
