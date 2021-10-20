@@ -1,26 +1,24 @@
 <h1 align="center">Hi 👋, I'm Zhiyuan Ma</h1>
-<h3 align="center">A rookie now learning Java and basic knowledge of CS</h3>
-<h3 align="center">https://zhiyuanma2017.github.io/</h3>
+<h3 align="center">:raising_hand: Seeking 2022 summer intership</h3>
+<h4 align="center">https://zhiyuanma2017.github.io/</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=zhiyuanma2017&label=Profile%20views&color=0e75b6&style=flat" alt="zhiyuanma2017" /> </p>
                                  
 
-- :raising_hand: **Seeking 2022 summer intership**
-- 🌱 I’m currently learning <del>Java and Spring Boot</del>  **algorithms and data structures** from [LeetCode](https://purr.notion.site/d14e33f7d8a04dfcbffe5ea30441a5ab?v=695c3715120d48cf9078ed0fdabe2bc4)
-
-- :mortar_board:  Bachelor of Science in **Bioinformatics** at Tongji University
 
 - :love_letter: Master of Computer Science at North Carolina State Univeristy (2021 - 2023)
+- :mortar_board: Bachelor of Science in **Bioinformatics** at Tongji University
 
 - :stars: Projects:
     - [Pathogenesis of AMI Revealed by Integrative Global Transcriptomics and Proteomics Analysis](https://github.com/ZhiyuanMa2017/AMI_analysis) - Python, R, KEGG
-    - [Drug_GAN (Undergraduate)](https://github.com/ZhiyuanMa2017/Drug_GAN) - Python, Tensorflow, Generative Adversarial Network, Drug Molecule SMILES
-    - [Course: UC Berkeley CS 61B Data Structures, Spring 2018 (Self-study)](https://github.com/ZhiyuanMa2017/CS61B-sp18) - Java
-    - [Course: Stanford CS231n: Convolutional Neural Networks for Visual Recognition (Self-study)](https://github.com/ZhiyuanMa2017/cs231n-Spring-2017) - Python, CNN
+    - [Drug_GAN](https://github.com/ZhiyuanMa2017/Drug_GAN) - Python, Tensorflow, Generative Adversarial Network, Drug Molecule SMILES
+    - [Course: UC Berkeley CS 61B Data Structures, Spring 2018](https://github.com/ZhiyuanMa2017/CS61B-sp18) - Java
+    - [Course: Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/ZhiyuanMa2017/cs231n-Spring-2017) - Python, CNN
     - [Baidu Tieba Spider, Word Segmentation and Wordcloud (Esports Forum Statistics and Analysis)](https://github.com/ZhiyuanMa2017/tieba_spider) - Jieba, Wordcloud
-    - [Chinese Herbal Medicine Data Website (Short Semester Course Design)](https://github.com/ZhiyuanMa2017/Chinese_Herbal_Medicine_Data_Website) - Python, Django, RDKit
-    - [Spring Boot Learning (still Rookie Level)](https://github.com/ZhiyuanMa2017/Spring-learning)  
-    - [My Leetcode Repo](https://www.leetcode.com/hongsuzu)
+    - [Chinese Herbal Medicine Data Website](https://github.com/ZhiyuanMa2017/Chinese_Herbal_Medicine_Data_Website) - Python, Django, RDKit
+    - [Spring Boot Learning](https://github.com/ZhiyuanMa2017/Spring-learning) - WebSocket, JDBC, MyBatis, JPA, Druid, Redis, RabbitMQ, MongoDB, Spring Security, Docker 
+    - [My Leetcode Repo](https://github.com/ZhiyuanMa2017/leetcode)  
+    - [LeetCode Notes](https://purr.notion.site/d14e33f7d8a04dfcbffe5ea30441a5ab?v=695c3715120d48cf9078ed0fdabe2bc4)
    
 
 
