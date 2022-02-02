@@ -10,6 +10,9 @@
 - :mortar_board: Bachelor of Science in **Bioinformatics** at Tongji University
 
 - :stars: Projects:
+    - [Customer Loyalty Marketplace Application](https://github.com/540-Database/Customer-Loyalty-Marketplace-Application) - Java, JDBC, Oracle
+    - [Customer Feedback Collection Website](https://github.com/ZhiyuanMa2017/Node-with-React) - Node.js, React, Redux, Google OAuth, Stripe API, SendGrid API, MongoDB, Heroku
+    - [Bear Maps Web Server](https://github.com/ZhiyuanMa2017/CS61B-sp18/tree/master/proj3) - Java
     - [Pathogenesis of AMI Revealed by Integrative Global Transcriptomics and Proteomics Analysis](https://github.com/ZhiyuanMa2017/AMI_analysis) - Python, R, KEGG
     - [Drug_GAN](https://github.com/ZhiyuanMa2017/Drug_GAN) - Python, Tensorflow, Generative Adversarial Network, Drug Molecule SMILES
     - [Course: UC Berkeley CS 61B Data Structures, Spring 2018](https://github.com/ZhiyuanMa2017/CS61B-sp18) - Java
