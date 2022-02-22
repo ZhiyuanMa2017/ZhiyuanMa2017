@@ -6,7 +6,7 @@
                                  
 
 
-- :love_letter: Master of Computer Science at North Carolina State Univeristy (2021 - 2023)
+- :love_letter: Master of **Computer Science** at North Carolina State Univeristy (2021 - 2023)
 - :mortar_board: Bachelor of Science in **Bioinformatics** at Tongji University
 
 - :stars: Projects:
