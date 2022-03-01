@@ -13,16 +13,19 @@
     - [Course and Enrollment Management System](https://github.com/ZhiyuanMa2017/Course-and-Enrollment-Management) - **Ruby on Rails**
     - [Customer Loyalty Marketplace Application](https://github.com/540-Database/Customer-Loyalty-Marketplace-Application) - **Java**, **JDBC**, **Oracle**
     - [Customer Feedback Collection Website](https://github.com/ZhiyuanMa2017/Node-with-React) - **Node.js**, **React**, Google OAuth, Stripe API, SendGrid API, **MongoDB**, Heroku
-    - [Bear Maps Web Server](https://github.com/ZhiyuanMa2017/CS61B-sp18/tree/master/proj3) - **Java**
+    - [Berkeley City Map Web Application](https://github.com/ZhiyuanMa2017/Bear-Maps) - **Java**, Trie, A* search algorithm
+- :school_satchel: Undergraduate Research:
     - [Pathogenesis of AMI Revealed by Integrative Global Transcriptomics and Proteomics Analysis](https://github.com/ZhiyuanMa2017/AMI_analysis) - Python, R, KEGG
     - [Drug_GAN](https://github.com/ZhiyuanMa2017/Drug_GAN) - Python, Tensorflow, Generative Adversarial Network, Drug Molecule SMILES
+- :joystick: Personal Projects:
     - [Course: UC Berkeley CS 61B Data Structures, Spring 2018](https://github.com/ZhiyuanMa2017/CS61B-sp18) - Java
     - [Course: Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/ZhiyuanMa2017/cs231n-Spring-2017) - Python, CNN
+    
     - [Baidu Tieba Spider, Word Segmentation and Wordcloud (Esports Forum Statistics and Analysis)](https://github.com/ZhiyuanMa2017/tieba_spider) - Jieba, Wordcloud
     - [Chinese Herbal Medicine Data Website](https://github.com/ZhiyuanMa2017/Chinese_Herbal_Medicine_Data_Website) - Python, Django, RDKit
     - [Spring Boot Learning](https://github.com/ZhiyuanMa2017/Spring-learning) - WebSocket, JDBC, MyBatis, JPA, Druid, Redis, RabbitMQ, MongoDB, Spring Security, Docker 
-    - [My Leetcode Repo](https://github.com/ZhiyuanMa2017/leetcode)  
-    - [LeetCode Notes](https://purr.notion.site/d14e33f7d8a04dfcbffe5ea30441a5ab?v=695c3715120d48cf9078ed0fdabe2bc4)
+    - [My Leetcode Repository](https://github.com/ZhiyuanMa2017/leetcode)  
+    - [LeetCode Learning Notes](https://purr.notion.site/d14e33f7d8a04dfcbffe5ea30441a5ab?v=695c3715120d48cf9078ed0fdabe2bc4)
    
 
 
