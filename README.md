@@ -20,7 +20,6 @@
 - :joystick: Personal Projects:
     - [Course: UC Berkeley CS 61B Data Structures, Spring 2018](https://github.com/ZhiyuanMa2017/CS61B-sp18) - Java
     - [Course: Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/ZhiyuanMa2017/cs231n-Spring-2017) - Python, CNN
-    
     - [Baidu Tieba Spider, Word Segmentation and Wordcloud (Esports Forum Statistics and Analysis)](https://github.com/ZhiyuanMa2017/tieba_spider) - Jieba, Wordcloud
     - [Chinese Herbal Medicine Data Website](https://github.com/ZhiyuanMa2017/Chinese_Herbal_Medicine_Data_Website) - Python, Django, RDKit
     - [Spring Boot Learning](https://github.com/ZhiyuanMa2017/Spring-learning) - WebSocket, JDBC, MyBatis, JPA, Druid, Redis, RabbitMQ, MongoDB, Spring Security, Docker 
