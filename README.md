@@ -10,6 +10,7 @@
 - :mortar_board: Bachelor of Science in **Bioinformatics** at Tongji University
 
 - :stars: Projects:
+    - [Discord Piazza Bot](https://github.com/ZhiyuanMa2017/Discord-Piazza-Bot) - **Node.js**, discord.js, piazza-api
     - [Course and Enrollment Management System](https://github.com/ZhiyuanMa2017/Course-and-Enrollment-Management) - **Ruby on Rails**
     - [Customer Loyalty Marketplace Application](https://github.com/540-Database/Customer-Loyalty-Marketplace-Application) - **Java**, **JDBC**, **Oracle**
     - [Customer Feedback Collection Website](https://github.com/ZhiyuanMa2017/Node-with-React) - **Node.js**, **React**, Google OAuth, Stripe API, SendGrid API, **MongoDB**, Heroku
