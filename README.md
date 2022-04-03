@@ -24,8 +24,11 @@
     - [Baidu Tieba Spider, Word Segmentation and Wordcloud (Esports Forum Statistics and Analysis)](https://github.com/ZhiyuanMa2017/tieba_spider) - Jieba, Wordcloud
     - [Chinese Herbal Medicine Data Website](https://github.com/ZhiyuanMa2017/Chinese_Herbal_Medicine_Data_Website) - Python, Django, RDKit
     - [Spring Boot Learning](https://github.com/ZhiyuanMa2017/Spring-learning) - WebSocket, JDBC, MyBatis, JPA, Druid, Redis, RabbitMQ, MongoDB, Spring Security, Docker 
-    - [My Leetcode Repository](https://github.com/ZhiyuanMa2017/leetcode)  
-    - [LeetCode Learning Notes](https://purr.notion.site/d14e33f7d8a04dfcbffe5ea30441a5ab?v=695c3715120d48cf9078ed0fdabe2bc4)
+
+
+- :abacus: LeetCode:
+    - [My Leetcode Solutions Repository](https://github.com/ZhiyuanMa2017/leetcode)  
+    - [LeetCode GraphQL API Query](https://github.com/ZhiyuanMa2017/LeetCode-API)  
    
 
 
