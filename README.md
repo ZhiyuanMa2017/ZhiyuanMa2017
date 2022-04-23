@@ -63,5 +63,5 @@
 </p>
 
 <p align="middle">
-<a href="https://github.com/ZhiyuanMa2017" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhiyuanMa2017&hide=prs,issues&count_private=true&show_icons=true" /></a>
+<a href="https://github.com/ZhiyuanMa2017" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhiyuanMa2017&count_private=true&show_icons=true" /></a>
 </p>
