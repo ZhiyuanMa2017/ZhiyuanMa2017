@@ -65,3 +65,6 @@
 <p align="middle">
 <a href="https://github.com/ZhiyuanMa2017" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhiyuanMa2017&count_private=true&show_icons=true" /></a>
 </p>
+<p align="middle">
+  <a href="https://leetcode.com/hongsuzu/" target="blank"><img align="center" src="https://github.com/ZhiyuanMa2017/LeetCode-Contest-Rating-Screenshot/blob/master/lc.png" width="460" height="225"/></a>
+</p>
