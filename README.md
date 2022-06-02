@@ -1,46 +1,50 @@
-<h1 align="center">Hi 👋, I'm Zhiyuan Ma</h1>
-<h3 align="center">:raising_hand: Seeking 2022 summer intership</h3>
-<h4 align="center">https://zhiyuanma2017.github.io/</h3>
+<table align="right" >
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZhiyuanMa2017&count_private=true&show_icons=true"  alt="github" ></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/ZhiyuanMa2017/LeetCode-Contest-Rating-Screenshot/blob/master/lc.png" width="460" height="225" alt="leetcode"</td>
+  </tr>
+</table>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=zhiyuanma2017&label=Profile%20views&color=0e75b6&style=flat" alt="zhiyuanma2017" /> </p>
-                                 
+### 👋 Hi there, I'm Zhiyuan Ma.
 
-
-- :love_letter: Master of **Computer Science** at North Carolina State Univeristy (2021 - 2023)
-- :mortar_board: Bachelor of Science in **Bioinformatics** at Tongji University
-
-- :stars: Projects:
-    - [Discord Piazza Bot](https://github.com/ZhiyuanMa2017/Discord-Piazza-Bot) - **Node.js**, discord.js, piazza-api
-    - [Course and Enrollment Management System](https://github.com/ZhiyuanMa2017/Course-and-Enrollment-Management) - **Ruby on Rails**
-    - [Customer Loyalty Marketplace Application](https://github.com/540-Database/Customer-Loyalty-Marketplace-Application) - **Java**, **JDBC**, **Oracle**
-    - [Customer Feedback Collection Website](https://github.com/ZhiyuanMa2017/Node-with-React) - **Node.js**, **React**, Google OAuth, Stripe API, SendGrid API, **MongoDB**, Heroku
-    - [Berkeley City Map Web Application](https://github.com/ZhiyuanMa2017/Bear-Maps) - **Java**, Trie, A* search algorithm
-- :school_satchel: Undergraduate Research:
-    - [Pathogenesis of AMI Revealed by Integrative Global Transcriptomics and Proteomics Analysis](https://github.com/ZhiyuanMa2017/AMI_analysis) - Python, R, KEGG
-    - [Drug_GAN](https://github.com/ZhiyuanMa2017/Drug_GAN) - Python, Tensorflow, Generative Adversarial Network, Drug Molecule SMILES
-- :joystick: Personal Projects:
-    - [Course: UC Berkeley CS 61B Data Structures, Spring 2018](https://github.com/ZhiyuanMa2017/CS61B-sp18) - Java
-    - [Course: Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/ZhiyuanMa2017/cs231n-Spring-2017) - Python, CNN
-    - [Baidu Tieba Spider, Word Segmentation and Wordcloud (Esports Forum Statistics and Analysis)](https://github.com/ZhiyuanMa2017/tieba_spider) - Jieba, Wordcloud
-    - [Chinese Herbal Medicine Data Website](https://github.com/ZhiyuanMa2017/Chinese_Herbal_Medicine_Data_Website) - Python, Django, RDKit
-    - [Spring Boot Learning](https://github.com/ZhiyuanMa2017/Spring-learning) - WebSocket, JDBC, MyBatis, JPA, Druid, Redis, RabbitMQ, MongoDB, Spring Security, Docker 
+- Master of Computer Science at North Carolina State Univeristy (2021 - 2023)
+- Bachelor of Science in Bioinformatics at Tongji University
 
 
-- :abacus: LeetCode:
-    - [My Leetcode Solutions Repository](https://github.com/ZhiyuanMa2017/leetcode)  
-    - [LeetCode GraphQL API Query](https://github.com/ZhiyuanMa2017/LeetCode-API)  
-   
+#### Find me
+
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/gmail.svg" alt="zma24" style="height: 1rem"> [Email](mailto:zma24@ncsu.edu)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/linkedin.svg" style="height: 1rem"> [LinkedIn](https://www.linkedin.com/in/zhiyuanma2021/)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/stackoverflow.svg" style="height: 1rem"> [Stack Overflow](https://stackoverflow.com/users/12843886)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/leetcode.svg" style="height: 1rem"> [LeetCode](https://leetcode.com/hongsuzu/)
 
 
 
+#### Projects
 
-<h3 align="middle">Connect with me:</h2>
-<p align="middle">
-  <a href="mailto:zma24@ncsu.edu" target="blank">  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="zma24" height="30" width="40" />Gmail</a>
-  <a href="https://www.linkedin.com/in/zhiyuanma2021/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zhiyuan ma" height="30" width="40" />LinkedIn</a>
-  <a href="https://stackoverflow.com/users/12843886" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12843886" height="30" width="40" />Stack Overflow</a>
-  <a href="https://www.leetcode.com/hongsuzu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="hongsuzu" height="30" width="40" />LeetCode</a>
-</p>
+##### 
+- [Discord Piazza Bot](https://github.com/ZhiyuanMa2017/Discord-Piazza-Bot) - **Node.js**, discord.js, piazza-api
+- [Course and Enrollment Management System](https://github.com/ZhiyuanMa2017/Course-and-Enrollment-Management) - **Ruby on Rails**
+- [Customer Loyalty Marketplace Application](https://github.com/540-Database/Customer-Loyalty-Marketplace-Application) - **Java**, Oracle
+- [Customer Feedback Collection Website](https://github.com/ZhiyuanMa2017/Node-with-React) - **Node.js**, **React**, Google OAuth, Stripe API, SendGrid API, MongoDB, Heroku
+- [Berkeley City Map Web Application](https://github.com/ZhiyuanMa2017/Bear-Maps) - **Java**, Trie, A* search algorithm
+
+##### Undergraduate Research:
+- [Pathogenesis of AMI Revealed by Integrative Global Transcriptomics and Proteomics Analysis](https://github.com/ZhiyuanMa2017/AMI_analysis) - Python, R, KEGG
+- [Drug_GAN](https://github.com/ZhiyuanMa2017/Drug_GAN) - Python, Tensorflow, Generative Adversarial Network, Drug Molecule SMILES
+
+##### Personal Projects:
+- [Course: UC Berkeley CS 61B Data Structures, Spring 2018](https://github.com/ZhiyuanMa2017/CS61B-sp18) - Java
+- [Course: Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/ZhiyuanMa2017/cs231n-Spring-2017) - Python, CNN
+- [Baidu Tieba Spider, Word Segmentation and Wordcloud (Esports Forum Statistics and Analysis)](https://github.com/ZhiyuanMa2017/tieba_spider) - Jieba, Wordcloud
+- [Chinese Herbal Medicine Data Website](https://github.com/ZhiyuanMa2017/Chinese_Herbal_Medicine_Data_Website) - Python, Django, RDKit
+- [Spring Boot Learning](https://github.com/ZhiyuanMa2017/Spring-learning) - WebSocket, JDBC, MyBatis, JPA, Druid, Redis, RabbitMQ, MongoDB, Spring Security, Docker
+
+##### LeetCode:
+- [My Leetcode Solutions Repository](https://github.com/ZhiyuanMa2017/leetcode)  
+- [LeetCode GraphQL API Query](https://github.com/ZhiyuanMa2017/LeetCode-API)
 
 <h3 align="middle">Languages and Tools:</h3>
 
@@ -60,11 +64,4 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/> </a> 
-</p>
-
-<p align="middle">
-<a href="https://github.com/ZhiyuanMa2017" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhiyuanMa2017&count_private=true&show_icons=true" /></a>
-</p>
-<p align="middle">
-  <a href="https://leetcode.com/hongsuzu/" target="blank"><img align="center" src="https://github.com/ZhiyuanMa2017/LeetCode-Contest-Rating-Screenshot/blob/master/lc.png" width="460" height="225"/></a>
 </p>
