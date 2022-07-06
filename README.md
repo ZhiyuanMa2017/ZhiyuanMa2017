@@ -1,9 +1,16 @@
 <table align="right" >
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZhiyuanMa2017&count_private=true&show_icons=true"  alt="github" ></td>
+    <td align="center">
+      <a href="https://github.com/ZhiyuanMa2017">
+        <img src="https://github-readme-stats.vercel.app/api?username=ZhiyuanMa2017&count_private=true&show_icons=true"  alt="github" >
+      <a/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/ZhiyuanMa2017/LeetCode-Contest-Rating-Screenshot/blob/master/lc.png" width="460" height="225" alt="leetcode"</td>
+    <td align="center">
+      <a href="https://leetcode.com/hongsuzu/">
+        <img src="https://github.com/ZhiyuanMa2017/LeetCode-Contest-Rating-Screenshot/blob/master/lc.png" width="460" height="225" alt="leetcode"</td>
+      <a/>
   </tr>
 </table>
 
