@@ -1,41 +1,42 @@
+### 👋 Hi there, I'm Zhiyuan Ma. Seeking 2023 New Grad SDE position!
+
+- Master of Computer Science at North Carolina State Univeristy (2021 - 2023)
+- Bachelor of Science in Bioinformatics at Tongji University
 <table align="right" >
   <tr>
     <td align="center">
       <a href="https://github.com/ZhiyuanMa2017">
         <img src="https://github-readme-stats.vercel.app/api?username=ZhiyuanMa2017&count_private=true&show_icons=true"  alt="github" >
       <a/>
-    </td>
   </tr>
-  <tr>
-    <td align="center">
+   <tr>
+  </td>
+        <td align="center">
       <a href="https://leetcode.com/hongsuzu/">
-        <img src="https://github.com/ZhiyuanMa2017/LeetCode-Contest-Rating-Screenshot/blob/master/lc.png" width="460" height="225" alt="leetcode"</td>
+        <img src="https://github.com/ZhiyuanMa2017/LeetCode-Contest-Rating-Screenshot/blob/master/lc.png" width="460" height="225" alt="leetcode"
       <a/>
-  </tr>
+    </td>
+     </tr>
 </table>
 
-### 👋 Hi there, I'm Zhiyuan Ma.
-
-- Master of Computer Science at North Carolina State Univeristy (2021 - 2023)
-- Bachelor of Science in Bioinformatics at Tongji University
-
-
 #### Find me
-
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/githubsponsors.svg" style="height: 1rem"> [Resume](https://github.com/ZhiyuanMa2017/ZhiyuanMa2017/blob/master/ZhiyuanMa_Resume.pdf)
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/gmail.svg" alt="zma24" style="height: 1rem"> [Email](mailto:zma24@ncsu.edu)
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/linkedin.svg" style="height: 1rem"> [LinkedIn](https://www.linkedin.com/in/zhiyuanma2021/)
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/stackoverflow.svg" style="height: 1rem"> [Stack Overflow](https://stackoverflow.com/users/12843886)
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/leetcode.svg" style="height: 1rem"> [LeetCode](https://leetcode.com/hongsuzu/)
 
-
+#### LeetCode:
+- [My Leetcode Solutions Repository](https://github.com/ZhiyuanMa2017/leetcode)  
+- [LeetCode GraphQL API Query](https://github.com/ZhiyuanMa2017/LeetCode-API)
 
 #### Projects
 
 - [Discord Piazza Bot](https://github.com/ZhiyuanMa2017/Discord-Piazza-Bot) - **Node.js**, discord.js, piazza-api
 - [Course and Enrollment Management System](https://github.com/ZhiyuanMa2017/Course-and-Enrollment-Management) - **Ruby on Rails**
 - [Customer Loyalty Marketplace Application](https://github.com/540-Database/Customer-Loyalty-Marketplace-Application) - **Java**, Oracle
-- [Customer Feedback Collection Website](https://github.com/ZhiyuanMa2017/Node-with-React) - **Node.js**, **React**, Google OAuth, Stripe API, SendGrid API, MongoDB, Heroku
-- [Berkeley City Map Web Application](https://github.com/ZhiyuanMa2017/Bear-Maps) - **Java**, Trie, A* search algorithm
+- [Customer Feedback Collection Website](https://github.com/ZhiyuanMa2017/Node-with-React) - **Node.js**, **React**
+- [Berkeley City Map Web Application](https://github.com/ZhiyuanMa2017/Bear-Maps) - **Java**, Trie, A*
 
 #### Undergraduate Research:
 - [Pathogenesis of AMI Revealed by Integrative Global Transcriptomics and Proteomics Analysis](https://github.com/ZhiyuanMa2017/AMI_analysis) - Python, R, KEGG
@@ -48,9 +49,6 @@
 - [Chinese Herbal Medicine Data Website](https://github.com/ZhiyuanMa2017/Chinese_Herbal_Medicine_Data_Website) - Python, Django, RDKit
 - [Spring Boot Learning](https://github.com/ZhiyuanMa2017/Spring-learning) - WebSocket, JDBC, MyBatis, JPA, Druid, Redis, RabbitMQ, MongoDB, Spring Security, Docker
 
-#### LeetCode:
-- [My Leetcode Solutions Repository](https://github.com/ZhiyuanMa2017/leetcode)  
-- [LeetCode GraphQL API Query](https://github.com/ZhiyuanMa2017/LeetCode-API)
 
 <h3 align="middle">Languages and Tools:</h3>
 
